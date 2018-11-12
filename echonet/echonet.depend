@@ -1,0 +1,69 @@
+# depslib dependency file v1.0
+1541993625 source:d:\code\gitproject\echonet\echonet\echonet\echonet\client.cpp
+	"client.h"
+
+1541993625 d:\code\gitproject\echonet\echonet\echonet\echonet\client.h
+	<iostream>
+	<iomanip>
+	<sstream>
+	<cstring>
+	<chrono>
+	<map>
+	<thread>
+	<cstdio>
+	<cstdlib>
+	<ctime>
+	<unistd.h>
+	<arpa/inet.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<netdb.h>
+	"common.h"
+
+1541993712 d:\code\gitproject\echonet\echonet\echonet\echonet\common.h
+	<iostream>
+	<iomanip>
+	<sstream>
+	<cstring>
+	<chrono>
+	<map>
+	<thread>
+	<cstdio>
+	<cstdlib>
+	<ctime>
+
+1541993712 source:d:\code\gitproject\echonet\echonet\echonet\echonet\common.cpp
+	"common.h"
+
+1541993590 source:d:\code\gitproject\echonet\echonet\echonet\echonet\server.cpp
+	"server.h"
+
+1541993590 d:\code\gitproject\echonet\echonet\echonet\echonet\server.h
+	<iostream>
+	<iomanip>
+	<sstream>
+	<cstring>
+	<chrono>
+	<map>
+	<thread>
+	<cstdio>
+	<cstdlib>
+	<ctime>
+	<unistd.h>
+	<arpa/inet.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<netdb.h>
+	"common.h"
+
+1541993722 source:d:\code\gitproject\echonet\echonet\echonet\main.cpp
+	<iostream>
+	<vector>
+	<map>
+	<string>
+	"echonet/common.h"
+	"echonet/server.h"
+	"echonet/client.h"
+

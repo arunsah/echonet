@@ -1,3 +1,8 @@
+# ignore bin and obj directory
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+
 # Prerequisites
 *.d
 
